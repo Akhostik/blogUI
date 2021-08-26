@@ -1,0 +1,41 @@
+*{
+    font-family: 'Poppins', sans-serif;   
+    box-shadow: none! important;
+ margin: 0;
+ padding: 0;
+}
+
+
+.space{
+    height: 2rem;
+}
+
+.nav-wrapper{
+
+}
+
+.footer-copyright{
+  
+}
+
+.nav{
+    background: transparent;
+}
+.page-footer a:hover{
+ background: black;
+ border-spacing: 5px;
+ padding: 5px;
+ border: 1px solid white;
+ border-radius: 20px;
+}
+
+.brand-logo{
+    font-weight: 700;
+}
+
+.page-footer{
+    padding-top: 5rem;
+}
+
+
+
